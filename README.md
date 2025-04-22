@@ -58,11 +58,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sushantrajput&show_icons=true&theme=radical&layout=compact" alt="Top Languages" width="450" />
 </p>
 
-<h3 align="center">🏆 GitHub Trophies</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sushantrajput&theme=radical&no-frame=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
-</p>
-
 <h3 align="center">💻 GitHub Contribution Graph</h3>
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=sushantrajput&theme=react-dark" alt="Contribution Graph" />
@@ -70,5 +65,5 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sushantrajput&label=Profile%20views&color=0e75b8&style=flat" alt="Profile Views" />
+  <img src="https://badges.pufler.dev/commits/monthly/sushantrajput" alt="Total Commits" />
 </p>
-
