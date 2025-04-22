@@ -7,9 +7,9 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Android** App Development and building intuitive mobile applications.
-- 🌱 I’m learning **Web Development**, focusing on creating modern, responsive websites.
-- 💬 Ask me about **React**, **JavaScript**, **Kotlin**, and how to build sleek user interfaces.
+- 🔭 I’m currently working on **Android** App Development and building intuitive mobile applications.  
+- 🌱 I’m learning **Web Development**, focusing on creating modern, responsive websites.  
+- 💬 Ask me about **React**, **JavaScript**, **Kotlin**, and how to build sleek user interfaces.  
 - 📫 Reach out to me at **skrajsushant698@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
@@ -44,7 +44,7 @@
   </a> 
 </p>
 
-<h3 align="center">My GitHub Stats:</h3>
+<h3 align="center">📊 My GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sushantrajput&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" width="450" />
 </p>
@@ -58,6 +58,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sushantrajput&show_icons=true&theme=radical&layout=compact" alt="Top Languages" width="450" />
 </p>
 
+<h3 align="center">🏆 GitHub Trophies</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sushantrajput&theme=radical&no-frame=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
+</p>
+
+<h3 align="center">💻 GitHub Contribution Graph</h3>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=sushantrajput&theme=react-dark" alt="Contribution Graph" />
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sushantrajput&label=Profile%20views&color=0e75b8&style=flat" alt="Profile Views" />
 </p>
+
