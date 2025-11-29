@@ -45,15 +45,6 @@
   </a> 
 </p>
 
-<h3 align="center">My GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sushantrajput&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" width="450" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushantrajput&theme=radical" alt="GitHub Streak" width="450" />
-</p>
-
 <h3 align="center">Top Languages:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sushantrajput&show_icons=true&theme=radical&layout=compact" alt="Top Languages" width="450" />
@@ -61,4 +52,3 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sushantrajput&label=Profile%20views&color=0e75b8&style=flat" alt="Profile Views" />
-</p>  i want that it also shows overall contributin on github till date and update on making changes 
