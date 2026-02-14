@@ -57,12 +57,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sushantrajput&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Sushant's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sushantrajput&show_icons=true&theme=radical&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sushantrajput&label=Profile%20views&color=0e75b8&style=flat-square" alt="Profile Views" />
